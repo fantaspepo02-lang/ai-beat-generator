@@ -1,0 +1,14 @@
+node_modules/
+.next/
+out/
+build/
+.env*.local
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+repo_payload.json
+user_info.json
+repos_list.json
+repo_urls.txt
+repo_creation_log.json
